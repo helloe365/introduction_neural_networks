@@ -1,0 +1,11 @@
+# Core dependencies for running the examples in this repository
+numpy
+matplotlib
+pillow
+
+# Optional: required to run PyTorch examples
+torch
+torchvision
+
+# Handy utilities (optional)
+tqdm
